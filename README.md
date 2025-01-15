@@ -53,7 +53,7 @@ This project highlights key backend concepts, including database integration, mi
 
 ![image](https://github.com/user-attachments/assets/0bbe0bcc-da2c-4289-998e-74f72cfc264c)
 
-**and when you enter the wrong campital,it will look like this**:
+**and when you enter the wrong campital, it will look like this**:
 
 ![image](https://github.com/user-attachments/assets/5f97d6d2-023d-4abf-a016-16c7a2a02b6e)
 
